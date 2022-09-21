@@ -1,0 +1,27 @@
+aom			jpeg			maven
+brotli			jpeg-turbo		mpdecimal
+c-ares			jpeg-xl			netpbm
+ca-certificates		krb5			nginx
+cairo			libavif			node
+cmake			libffi			node@14
+eralchemy		libidn2			openexr
+fontconfig		libnghttp2		openjdk
+freetype		libpng			openjdk@11
+fribidi			libpq			openssl@1.1
+gd			libpthread-stubs	pango
+gdbm			librsvg			pcre
+gdk-pixbuf		libtiff			pcre2
+gettext			libtool			pixman
+giflib			libunistring		pkg-config
+glfw			libuv			postgresql
+glib			libvmaf			python@3.10
+go			libx11			python@3.9
+gobject-introspection	libxau			readline
+gprof2dot		libxcb			sqlite
+graphite2		libxdmcp		webp
+graphviz		libxext			wget
+gts			libxrender		xorgproto
+harfbuzz		lz4			xz
+icu4c			lzo			youtube-dl
+imath			m4
+jasper			macos-term-size
