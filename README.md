@@ -3,7 +3,7 @@
 
 ## System
 
-- Disable screenasver - keep awake
+- Disable screensaver - keep awake
 - Disable iCloud
 - Disable all notifications
 - Disable auto adding fullstop and auto correcting grammar in Input/Keyboard/Text (check again)
@@ -20,7 +20,7 @@
 - Install Chrome, Zoom, VSCode, Sublime Code, Pycharm, IntelliJ, Postman, Docker
     - Give Chrome, Zoom, and IM (MS Teams/Slack/Lark/WebEx etc) permissions for screen sharing, video, audio, etc
     - VSCode extensions for Golang, Python, Java etc
-- Install Adode PDF Reader if you must
+- Install Adobe PDF Reader if you must
 
 
 ## Dev
