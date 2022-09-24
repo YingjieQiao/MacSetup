@@ -19,7 +19,7 @@
 
 - Install Chrome, Zoom, VSCode, Sublime Code, Pycharm, IntelliJ, Postman, Docker
     - Give Chrome, Zoom, and IM (MS Teams/Slack/Lark/WebEx etc) permissions for screen sharing, video, audio, etc
-    - VSCode extensions for Golang, Python, Java etc
+    - VSCode extensions for Golang, Python, Java etc. Setup VSCode auto save
 - Install Adobe PDF Reader if you must
 
 
