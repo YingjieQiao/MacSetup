@@ -9,6 +9,7 @@
 - Disable auto adding fullstop and auto correcting grammar in Input/Keyboard/Text (check again)
 - Disable hot corners if there is any
 - Disable "listen for Hey Siri"
+- Show Volume and Bluetooth in menu bar
 - Shortcuts
     - Override cmd + Q
     - Override screenshot cmd + shift + 4
